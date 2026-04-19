@@ -24,7 +24,7 @@ This section focuses on understanding pollution patterns, distribution, and rela
 
 ## 📉 Distribution of Pollution
 
-![Histogram](images/histogram.png)
+![Histogram](Images/histogram.png)
 
 ### 📌 Detailed Analysis
 
@@ -40,7 +40,7 @@ This section focuses on understanding pollution patterns, distribution, and rela
 
 ## 📊 Outlier Detection — Boxplot
 
-![Boxplot](images/boxplot.png)
+![Boxplot](Images/boxplot.png)
 
 ### 📌 Detailed Analysis
 
@@ -63,7 +63,7 @@ This section focuses on understanding pollution patterns, distribution, and rela
 
 ## 📊 State-wise Pollution Comparison
 
-![Bar Chart](images/bar_chart.png)
+![Bar Chart](Images/bar_chart.png)
 
 ### 📌 Detailed Analysis
 
@@ -79,7 +79,7 @@ This section focuses on understanding pollution patterns, distribution, and rela
 
 ## 📈 Relationship — Pollutant Max vs Avg
 
-![Scatter Plot](images/scatter.png)
+![Scatter Plot](Images/scatter.png)
 
 ### 📌 Detailed Analysis
 
@@ -99,7 +99,7 @@ This section focuses on understanding pollution patterns, distribution, and rela
 
 ## 📊 Correlation Analysis — Heatmap
 
-![Heatmap](images/heatmap.png)
+![Heatmap](Images/heatmap.png)
 
 ### 📌 Detailed Analysis
 
@@ -119,7 +119,7 @@ This section focuses on understanding pollution patterns, distribution, and rela
 
 ## 📍 City-wise Analysis — Bihar
 
-![Bihar Cities](images/bihar_plot.png)
+![Bihar Cities](Images/bihar_plot.png)
 
 ### 📌 Detailed Analysis
 
